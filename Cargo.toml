@@ -1,0 +1,6 @@
+[package]
+name = "RustExamples"
+version = "0.1.0"
+authors = ["Krzysztof Leszczynski <mestruex@gmail.com>"]
+
+[dependencies]
